@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { blog_data } from "../../assets/assets";
+import { blog_data } from "../assets/assets";
 import BlogItem from "./BlogItem";
 
 const BlogList = () => {
